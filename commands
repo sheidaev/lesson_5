@@ -1,0 +1,3 @@
+curl https://qa.ithobby.com.ua/index.php
+
+curl -u admin:12344321 https://qa.ithobby.com.ua/index.php
