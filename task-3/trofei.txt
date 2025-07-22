@@ -1,0 +1,3 @@
+<title>trofei.ua</title>
+            <div class="logo"><a href="index.php" style="color:inherit;text-decoration:none;">&#11044; trofei.ua</a></div>
+                <span><a href="index.php" style="color:inherit;text-decoration:none;">trofei.ua</a></span>
