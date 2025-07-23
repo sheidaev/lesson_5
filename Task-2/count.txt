@@ -1,0 +1,4 @@
+7   7  21 first.txt
+  4   4  12 last.txt
+ 30  30  81 mix.txt
+ 41  41 114 total
